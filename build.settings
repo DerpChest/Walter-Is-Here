@@ -1,0 +1,16 @@
+settings = {
+
+    plugins =
+    {
+        ["plugin.gpgs"] =
+        {
+            publisherId = "com.coronalabs",
+            supportedPlatforms = { android=true }
+        },
+    },
+
+    android =
+    {
+        googlePlayGamesAppId = "YOUR_APPLICATION_ID",
+    },
+}
